@@ -1,6 +1,6 @@
 # npmtest-release-it
 
-#### test coverage for  [release-it (v2.7.1)](https://github.com/webpro/release-it#readme)  [![npm package](https://img.shields.io/npm/v/npmtest-release-it.svg?style=flat-square)](https://www.npmjs.org/package/npmtest-release-it) [![travis-ci.org build-status](https://api.travis-ci.org/npmtest/node-npmtest-release-it.svg)](https://travis-ci.org/npmtest/node-npmtest-release-it)
+#### basic test coverage for  [release-it (v2.7.1)](https://github.com/webpro/release-it#readme)  [![npm package](https://img.shields.io/npm/v/npmtest-release-it.svg?style=flat-square)](https://www.npmjs.org/package/npmtest-release-it) [![travis-ci.org build-status](https://api.travis-ci.org/npmtest/node-npmtest-release-it.svg)](https://travis-ci.org/npmtest/node-npmtest-release-it)
 
 #### Interactive release tool for Git repositories. Increment version, commit, tag, push, build, publish to npm. Supports to build and release to a distribution/component repository.
 
@@ -10,7 +10,7 @@
 |--:|:--|
 | coverage : | [![istanbul-coverage](https://npmtest.github.io/node-npmtest-release-it/build/coverage.badge.svg)](https://npmtest.github.io/node-npmtest-release-it/build/coverage.html/index.html)|
 | test-report : | [![test-report](https://npmtest.github.io/node-npmtest-release-it/build/test-report.badge.svg)](https://npmtest.github.io/node-npmtest-release-it/build/test-report.html)|
-| build-artifacts : | [![build-artifacts](https://npmtest.github.io/node-npmtest-release-it/glyphicons_144_folder_open.png)](https://github.com/npmtest/node-npmtest-release-it/tree/gh-pages/build)|
+| test-server-github : | [![github.com test-server](https://npmtest.github.io/node-npmtest-release-it/GitHub-Mark-32px.png)](https://npmtest.github.io/node-npmtest-release-it/build/app/index.html) | | build-artifacts : | [![build-artifacts](https://npmtest.github.io/node-npmtest-release-it/glyphicons_144_folder_open.png)](https://github.com/npmtest/node-npmtest-release-it/tree/gh-pages/build)|
 
 - [https://npmtest.github.io/node-npmtest-release-it/build/coverage.html/index.html](https://npmtest.github.io/node-npmtest-release-it/build/coverage.html/index.html)
 
